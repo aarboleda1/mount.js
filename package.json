@@ -1,6 +1,6 @@
 {
   "name": "mount.js",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "A simple ultility function to make working with values, arrays and objects chainable. All values are wrappered with accesser functions that accept callbacks. These calls are chainable and fluent.",
   "main": "mount.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "Programing",
     "Chainable",
     "Callbacks",
-    "Fluent"
+    "Fluent",
+    "util",
+    "utilities",
+    "utility"
   ],
   "author": "rexfordkelly@gmail.com",
   "license": "MIT",
