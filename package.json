@@ -1,0 +1,26 @@
+{
+  "name": "mount.js",
+  "version": "1.0.5",
+  "description": "A simple ultility function to make working with values, arrays and objects chainable. All values are wrappered with accesser functions that accept callbacks. These calls are chainable and fluent.",
+  "main": "mount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexfordkelly/mount.js.git"
+  },
+  "keywords": [
+    "Functional",
+    "Programing",
+    "Chainable",
+    "Callbacks",
+    "Fluent"
+  ],
+  "author": "rexfordkelly@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rexfordkelly/mount.js/issues"
+  },
+  "homepage": "https://github.com/rexfordkelly/mount.js#readme"
+}
